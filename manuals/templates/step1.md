@@ -14,6 +14,10 @@ To begin with, we need to install Ionic using NPM:
 We will create our WhatsApp app using the following command:
 
     $ ionic start whatsapp --v2
+    
+Move to project Directory 
+
+    $ cd whatsapp
 
 To start our app, simply type:
 

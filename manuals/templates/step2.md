@@ -10,9 +10,9 @@ An application created by Ionic's CLI will have a very clear methodology. The ap
 
 By default, the application will be created with 3 pages - `about`, `home` and `contact`. Since our app's flow doesn't contain any of them, we first gonna clean them up by running the following commands:
 
-    $ rm -rf src/pages/about
-    $ rm -rf src/pages/home
-    $ rm -rf src/pages/contact
+    $ npm rm -rf src/pages/about
+    $ npm rm -rf src/pages/home
+    $ npm rm -rf src/pages/contact
 
 And we need to remove their usage from the tabs container:
 
